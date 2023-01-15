@@ -1,0 +1,31 @@
+.crypto-list {
+  list-style-type: none;
+  border: 2px solid #00e7ff;
+  border-radius: 10px;
+  width: 80%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.heading-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #092e33;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding: 5px 10px;
+}
+
+.heading-container div {
+  display: flex;
+  align-items: center;
+}
+
+.heading-container div p {
+  padding: 0px 10px;
+}
+
+.heading-container p {
+  color: #fff;
+}
